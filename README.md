@@ -56,4 +56,4 @@ This project is open-source and available for personal and educational use. Cont
 
 ## Demo
 
-Check out the video demo on [YouTube Shorts](#) or [Instagram](#) to see this movement and aiming system in action.
+Check out the video demo on [YouTube Shorts](https://www.youtube.com/shorts/TyoAd8QJd30) or [Instagram](https://www.instagram.com/p/DBowjrNuTpA/?hl=en) to see this movement and aiming system in action.
